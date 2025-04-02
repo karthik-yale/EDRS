@@ -1,2 +1,2 @@
-# EDRS (Effective dimensionality of Resource Space)
+# EDRS (Effective Dimensionality of Resource Space)
 Quantify the dimensionality of microbial compositions
