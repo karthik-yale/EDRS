@@ -1,3 +1,5 @@
+## CG as in the title of this file is a legacy convention and is shorthand for coarse-grainability. The inverse of this quantity is niche dimensionality. 
+
 import os
 import json
 import glob
